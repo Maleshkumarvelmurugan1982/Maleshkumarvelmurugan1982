@@ -19,6 +19,12 @@ Welcome to my GitHub profile! I'm a passionate and dedicated web developer with 
 
 ---
 
+## 📊 Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maleshkumarvelmurugan1982&layout=compact&hide=css,html&langs_count=8)
+
+---
+
 ## 💼 Professional Highlights
 
 - Extensive experience developing scalable web applications using PHP and Java.
@@ -34,7 +40,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated web developer with 
 **Description:** A modernized version of the traditional ration shop, enabling users to access ration services online with just one click.  
 **Technologies Used:** PHP, MySQL
 
-### [Entrevest](#)  
+### [EntreVest](#)  
 **Description:** A desktop application using Java to connect investors and entrepreneurs, fostering collaboration and innovation.  
 **Technologies Used:** Java, GUI frameworks
 
