@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated web developer with 
 
 - **Passion:** Building intelligent, scalable web applications and IoT solutions  
 - **Focus:** Full Stack Development, AI/ML, IoT Integrations  
-- **Currently Learning:**Advanced AI/ML, IoT & PICSimLab  
+- **Currently Learning:** Advanced AI/ML, IoT & PICSimLab  
 - **Looking To Collaborate:** Yes  
 - **Email:** malesh26032006@gmail.com  
 
