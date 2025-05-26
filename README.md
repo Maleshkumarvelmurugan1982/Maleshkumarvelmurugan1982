@@ -8,15 +8,11 @@
 
 ### 👨‍💻 About Me
 
-```javascript
-const maleshkumar = {
-  passion: "Building intelligent, scalable web applications and IoT solutions",
-  focus: ["Full Stack Development", "AI/ML", "IoT Integrations"],
-  currentlyLearning: ["Cloud Computing", "Advanced AI/ML", "IoT with Blynk & PICSimLab"],
-  lookingToCollaborate: true,
-  email: "malesh26032006@gmail.com"
-};
-```
+- **Passion:** Building intelligent, scalable web applications and IoT solutions  
+- **Focus:** Full Stack Development, AI/ML, IoT Integrations  
+- **Currently Learning:** Cloud Computing, Advanced AI/ML, IoT with Blynk & PICSimLab  
+- **Looking To Collaborate:** Yes  
+- **Email:** malesh26032006@gmail.com  
 
 ---
 
