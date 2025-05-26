@@ -1,10 +1,40 @@
-# Hi there! 👋 I'm Maleshkumar Velmurugan
+# 👋 Hi, I'm Maleshkumar Velmurugan
 
-Welcome to my GitHub profile! I'm a passionate and dedicated web developer with a growing expertise in AI/ML and IoT. I love building dynamic, user-friendly web applications and exploring innovative tech solutions. I thrive on solving complex problems and delivering efficient, maintainable results.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maleshkumar-v-8311aa333/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:malesh26032006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Maleshkumarvelmurugan1982)
 
 ---
 
-## 🛠️ Languages and Tools
+### 👨‍💻 About Me
+
+```javascript
+const maleshkumar = {
+  passion: "Building intelligent, scalable web applications and IoT solutions",
+  focus: ["Full Stack Development", "AI/ML", "IoT Integrations"],
+  currentlyLearning: ["Cloud Computing", "Advanced AI/ML", "IoT with Blynk & PICSimLab"],
+  lookingToCollaborate: true,
+  email: "malesh26032006@gmail.com"
+};
+```
+
+---
+
+### 🏢 Internship Experience
+
+- **Emertxe Information Technologies**  
+  *Embedded Systems & IoT Intern (May 2025 - Present, Remote)*  
+  - Learning real-world tech skills in IoT, embedded systems, and project development.
+  - Working hands-on with PIC microcontrollers, Blynk, and cloud-based IoT solutions.
+  - Collaborating and growing through industry-level exposure.
+
+- **YBI Foundation**  
+  *AI/ML and Data Science Intern (Python)*  
+  - Completed a certified internship focused on practical AI/ML and Data Science applications using Python.
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
@@ -17,98 +47,65 @@ Welcome to my GitHub profile! I'm a passionate and dedicated web developer with 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40" style="background:white;"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
 </p>
 
 ---
 
-## 🚀 Skills
+### 🏆 Featured Projects
 
-- **Web Development:**
-  - **Languages:** PHP, Java, JavaScript, Python
-  - **Frameworks & Libraries:** React
-  - **Other Tools:** Git, REST APIs, MySQL
+#### [Digi-Ration](#)
+Modernized ration shop solution for online access to ration services.  
+**Tech:** PHP, MySQL
 
-- **AI & Data Science:**
-  - Certified in AI/ML and Data Science by YBI Foundation (Python-based internship)
+#### [EntreVest](#)
+Java desktop application for connecting investors and entrepreneurs.  
+**Tech:** Java, GUI
 
-- **Internships & Experience:**
-  - Currently interning (2 weeks, ongoing, online) at Emertxe Information Technologies, focusing on real-world tech skills and industry exposure.
+#### [Hand Cricket IPL Version](#)
+Interactive hand cricket game with IPL twist.  
+**Tech:** Java
+
+#### [Rock Paper Scissors](#)
+Classic game showcasing OOP concepts.  
+**Tech:** Java
+
+#### [Tic-Tac-Toe](#)
+Simple logic game for skill-building.  
+**Tech:** Java
+
+#### [SurvAlert (In Progress)](#)
+Disaster management web app with real-time alerts and resources.  
+**Tech:** React, PHP
+
+#### IoT-Based Solution (Upcoming)
+Future project integrating PICSimLab & Blynk for real-world IoT.  
+**Tech:** IoT, Blynk, PICSimLab
 
 ---
 
-## 📊 Languages Used
+### 📊 GitHub Analytics
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maleshkumarvelmurugan1982&layout=compact&hide=css,html&langs_count=8)
+![Maleshkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maleshkumarvelmurugan1982&show_icons=true&theme=react)
+![Maleshkumar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maleshkumarvelmurugan1982&theme=react)
 
 ---
 
-## 💼 Professional Highlights
+### 🚀 Current Focus
 
-- Extensive experience developing scalable web applications using PHP and Java.
-- Proficient in building intuitive front-end interfaces with React.
-- Skilled in implementing best practices for code quality, performance optimization, and security.
-- Hands-on experience in AI/ML and Data Science through certification and projects with Python.
-
----
-
-## 📂 Featured Projects
-
-### [Digi-Ration](#)  
-**Description:** A modernized version of the traditional ration shop, enabling users to access ration services online with just one click.  
-**Technologies Used:** PHP, MySQL
-
-### [EntreVest](#)  
-**Description:** A desktop application using Java to connect investors and entrepreneurs, fostering collaboration and innovation.  
-**Technologies Used:** Java, GUI frameworks
-
-### [Hand Cricket IPL Version](#)  
-**Description:** A fun and interactive hand cricket game with an IPL twist, developed in Java.
-
-### [Rock Paper Scissors](#)  
-**Description:** A classic rock-paper-scissors game implemented in Java, showcasing object-oriented programming concepts.
-
-### [Tic-Tac-Toe](#)  
-**Description:** A simple yet engaging tic-tac-toe game designed to enhance logical thinking and Java development skills.
-
-### [SurvAlert (In Progress)](#)  
-**Description:** A disaster management web application providing real-time alerts and resources in emergencies.  
-**Technologies Used:** React, PHP, and other web tools
-
-### **Upcoming Project: IoT-based Solution**  
-**Description:** Soon releasing a future project addressing real-world problems using IoT, with integration of PICSimLab and Blynk for simulation and remote monitoring.
+- 🧠 Building AI-powered & IoT applications that solve real-world problems
+- ☁️ Exploring cloud architecture and microservices
+- 🤖 Developing expertise in advanced AI/ML
 
 ---
 
-## 🌱 Currently Learning
+### 🤝 Let's connect and build something amazing!
 
-- Advanced React patterns and modern JavaScript features
-- Deepening knowledge in AI/ML and Data Science with Python
-- Exploring cloud technologies to enhance application scalability
-- Gaining practical IoT development experience (PICSimLab, Blynk, and more)
+> "Great code is written with passion and precision."
 
----
-
-## 📜 Certifications
-
-- **YBI Foundation:** Certified in AI/ML and Data Science Internship (Python)
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maleshkumarvelmurugan1982&show_icons=true&theme=react" alt="Maleshkumar Velmurugan's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maleshkumarvelmurugan1982&theme=react" alt="GitHub Streak" height="165" />
-</p>
-
----
-
-## 📫 Let's Connect!
-
-- **GitHub:** [Maleshkumarvelmurugan1982](https://github.com/Maleshkumarvelmurugan1982)
-- **LinkedIn:** [Maleshkumar V](https://www.linkedin.com/in/maleshkumar-v-8311aa333/)
-- **Email:** malesh26032006@gmail.com
-
----
-
-Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaborations, opportunities, or just to connect and share ideas.
+[Connect on LinkedIn](https://www.linkedin.com/in/maleshkumar-v-8311aa333/)
