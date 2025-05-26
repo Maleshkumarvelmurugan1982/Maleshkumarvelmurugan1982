@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Maleshkumar Velmurugan
+Welcome to my GitHub profile! I'm a passionate and dedicated web developer with a growing expertise in AI/ML and IoT. I love building dynamic, user-friendly web applications and exploring innovative tech solutions. I thrive on solving complex problems and delivering efficient, maintainable results.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maleshkumar-v-8311aa333/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:malesh26032006@gmail.com)
