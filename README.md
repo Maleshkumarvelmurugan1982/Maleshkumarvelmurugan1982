@@ -402,23 +402,12 @@ Agricultural innovation
 
 <br/>
 
-## 📅 **Yearly Contributions**
+## 📅 **Contribution Activity (2024-2026)**
 
 <div align="center">
 
-### **2024 Contributions**
 <a href="https://github.com/Maleshkumarvelmurugan1982">
-  <img src="https://ghchart.rshah.org/4169E1/Maleshkumarvelmurugan1982" alt="2024 GitHub Contributions" />
-</a>
-
-### **2025 Contributions**
-<a href="https://github.com/Maleshkumarvelmurugan1982">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maleshkumarvelmurugan1982&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=2025%20Activity%20Graph" alt="2025 Contributions" />
-</a>
-
-### **Contribution Timeline (2024-2026)**
-<a href="https://github.com/Maleshkumarvelmurugan1982">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maleshkumarvelmurugan1982&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution Timeline" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Maleshkumarvelmurugan1982&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Activity" />
 </a>
 
 </div>
@@ -429,30 +418,82 @@ Agricultural innovation
 
 <div align="center">
 
-<a href="https://github.com/Maleshkumarvelmurugan1982/AgriHub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maleshkumarvelmurugan1982&repo=AgriHub&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Maleshkumarvelmurugan1982/TIC-TAC-TOE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maleshkumarvelmurugan1982&repo=TIC-TAC-TOE&theme=tokyonight&hide_border=true" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/><br/>
+### 🌾 [AgriHub](https://github.com/Maleshkumarvelmurugan1982/AgriHub)
+![Stars](https://img.shields.io/github/stars/Maleshkumarvelmurugan1982/AgriHub?style=social)
+![Forks](https://img.shields.io/github/forks/Maleshkumarvelmurugan1982/AgriHub?style=social)
 
-<a href="https://github.com/Maleshkumarvelmurugan1982/DIGIRATION">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maleshkumarvelmurugan1982&repo=DIGIRATION&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Maleshkumarvelmurugan1982/HandCricketIPLVersion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maleshkumarvelmurugan1982&repo=HandCricketIPLVersion&theme=tokyonight&hide_border=true" />
-</a>
+**MERN Stack** platform connecting farmers and sellers directly.
 
-<br/><br/>
+`MongoDB` `Express` `React` `Node.js`
 
-<a href="https://github.com/Maleshkumarvelmurugan1982/EntreVestApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maleshkumarvelmurugan1982&repo=EntreVestApp&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Maleshkumarvelmurugan1982/Rock_paper_scissor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maleshkumarvelmurugan1982&repo=Rock_paper_scissor&theme=tokyonight&hide_border=true" />
-</a>
+</td>
+<td width="50%" valign="top">
+
+### 🎯 [TIC-TAC-TOE](https://github.com/Maleshkumarvelmurugan1982/TIC-TAC-TOE)
+![Stars](https://img.shields.io/github/stars/Maleshkumarvelmurugan1982/TIC-TAC-TOE?style=social)
+![Forks](https://img.shields.io/github/forks/Maleshkumarvelmurugan1982/TIC-TAC-TOE?style=social)
+
+Classic game demonstrating **OOP principles**.
+
+`Java` `Game Logic` `Algorithms`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎫 [Digi-Ration](https://github.com/Maleshkumarvelmurugan1982/DIGIRATION)
+![Stars](https://img.shields.io/github/stars/Maleshkumarvelmurugan1982/DIGIRATION?style=social)
+![Forks](https://img.shields.io/github/forks/Maleshkumarvelmurugan1982/DIGIRATION?style=social)
+
+Modernized **ration shop** solution for online services.
+
+`PHP` `MySQL` `Bootstrap`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏏 [Hand Cricket IPL](https://github.com/Maleshkumarvelmurugan1982/HandCricketIPLVersion)
+![Stars](https://img.shields.io/github/stars/Maleshkumarvelmurugan1982/HandCricketIPLVersion?style=social)
+![Forks](https://img.shields.io/github/forks/Maleshkumarvelmurugan1982/HandCricketIPLVersion?style=social)
+
+Interactive cricket game with **IPL twist**.
+
+`Java` `OOP` `Game Development`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💼 [EntreVest](https://github.com/Maleshkumarvelmurugan1982/EntreVestApp)
+![Stars](https://img.shields.io/github/stars/Maleshkumarvelmurugan1982/EntreVestApp?style=social)
+![Forks](https://img.shields.io/github/forks/Maleshkumarvelmurugan1982/EntreVestApp?style=social)
+
+Desktop app connecting **investors & entrepreneurs**.
+
+`Java` `Swing GUI` `JDBC`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎲 [Rock Paper Scissors](https://github.com/Maleshkumarvelmurugan1982/Rock_paper_scissor)
+![Stars](https://img.shields.io/github/stars/Maleshkumarvelmurugan1982/Rock_paper_scissor?style=social)
+![Forks](https://img.shields.io/github/forks/Maleshkumarvelmurugan1982/Rock_paper_scissor?style=social)
+
+Classic game showcasing **OOP concepts**.
+
+`Java` `Random Algorithms` `Game Logic`
+
+</td>
+</tr>
+</table>
 
 </div>
 
