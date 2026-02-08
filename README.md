@@ -203,7 +203,7 @@ A revolutionary platform connecting farmers and sellers directly, reducing trans
 <td width="50%">
 
 ### 🎫 **Digi-Ration**
-[![Digi-Ration](https://img.shields.io/badge/PHP-MySQL-purple?style=for-the-badge)](https://github.com/Maleshkumarvelmurugan1982)
+[![Digi-Ration](https://img.shields.io/badge/PHP-MySQL-purple?style=for-the-badge)](https://github.com/Maleshkumarvelmurugan1982/DIGIRATION)
 
 Modernized ration shop solution providing seamless online access to essential ration services.
 
@@ -214,7 +214,7 @@ Modernized ration shop solution providing seamless online access to essential ra
 
 **Impact:** Digitizing public distribution system 📱
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maleshkumarvelmurugan1982)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maleshkumarvelmurugan1982/DIGIRATION)
 
 </td>
 </tr>
@@ -277,7 +277,7 @@ Upcoming project integrating PICSimLab and Blynk for real-world IoT applications
 <td width="50%">
 
 ### 🎲 **Classic Games Collection**
-[![Games](https://img.shields.io/badge/Java-Collection-yellow?style=for-the-badge)](#)
+[![Games](https://img.shields.io/badge/Java-Collection-yellow?style=for-the-badge)](https://github.com/Maleshkumarvelmurugan1982/Rock_paper_scissor)
 
 Collection of classic games including Rock Paper Scissors and Tic-Tac-Toe.
 
@@ -288,7 +288,7 @@ Collection of classic games including Rock Paper Scissors and Tic-Tac-Toe.
 
 **Impact:** Learning through fun coding 🎯
 
-[![Explore](https://img.shields.io/badge/Explore-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maleshkumarvelmurugan1982)
+[![Explore](https://img.shields.io/badge/Explore-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maleshkumarvelmurugan1982/Rock_paper_scissor)
 
 </td>
 </tr>
@@ -303,17 +303,25 @@ Collection of classic games including Rock Paper Scissors and Tic-Tac-Toe.
 <div align="center">
   
 <!-- GitHub Stats Cards -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Maleshkumarvelmurugan1982&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maleshkumarvelmurugan1982&theme=radical&hide_border=true" />
+<a href="https://github.com/Maleshkumarvelmurugan1982">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maleshkumarvelmurugan1982&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maleshkumarvelmurugan1982&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</a>
 
-<!-- Top Languages -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maleshkumarvelmurugan1982&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maleshkumarvelmurugan1982&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Maleshkumarvelmurugan1982&custom_title=Maleshkumar's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maleshkumarvelmurugan1982&custom_title=Contribution%20Graph&bg_color=141321&color=FF6AD5&line=FF6AD5&point=FFFFFF&area_color=FF6AD5&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Maleshkumarvelmurugan1982&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maleshkumarvelmurugan1982&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</p>
 
 </div>
 
@@ -323,21 +331,30 @@ Collection of classic games including Rock Paper Scissors and Tic-Tac-Toe.
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[🧠 AI/ML Solutions] --> E[Innovation Hub]
-    B[☁️ Cloud Architecture] --> E
-    C[🤖 Advanced AI/ML] --> E
-    D[🌾 AgriTech Solutions] --> E
-    E --> F[Building the Future 🚀]
-    
-    style A fill:#4CAF50,stroke:#333,stroke-width:2px,color:#fff
-    style B fill:#2196F3,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#FF9800,stroke:#333,stroke-width:2px,color:#fff
-    style D fill:#9C27B0,stroke:#333,stroke-width:2px,color:#fff
-    style E fill:#F44336,stroke:#333,stroke-width:4px,color:#fff
-    style F fill:#FFD700,stroke:#333,stroke-width:2px,color:#000
-```
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/brain.png" width="50"/><br/>
+<b>AI/ML Solutions</b><br/>
+Building intelligent systems
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="50"/><br/>
+<b>Cloud Architecture</b><br/>
+Scalable infrastructure
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/robot.png" width="50"/><br/>
+<b>Advanced AI/ML</b><br/>
+Machine learning expertise
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/farm.png" width="50"/><br/>
+<b>AgriTech Solutions</b><br/>
+Agricultural innovation
+</td>
+</tr>
+</table>
 
 </div>
 
