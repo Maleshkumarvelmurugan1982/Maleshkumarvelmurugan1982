@@ -400,6 +400,62 @@ Agricultural innovation
 
 </div>
 
+<br/>
+
+## 📅 **Yearly Contributions**
+
+<div align="center">
+
+### **2024 Contributions**
+<a href="https://github.com/Maleshkumarvelmurugan1982">
+  <img src="https://ghchart.rshah.org/4169E1/Maleshkumarvelmurugan1982" alt="2024 GitHub Contributions" />
+</a>
+
+### **2025 Contributions**
+<a href="https://github.com/Maleshkumarvelmurugan1982">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maleshkumarvelmurugan1982&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=2025%20Activity%20Graph" alt="2025 Contributions" />
+</a>
+
+### **Contribution Timeline (2024-2026)**
+<a href="https://github.com/Maleshkumarvelmurugan1982">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maleshkumarvelmurugan1982&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution Timeline" />
+</a>
+
+</div>
+
+<br/>
+
+## ⭐ **Most Popular Repositories**
+
+<div align="center">
+
+<a href="https://github.com/Maleshkumarvelmurugan1982/AgriHub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maleshkumarvelmurugan1982&repo=AgriHub&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Maleshkumarvelmurugan1982/TIC-TAC-TOE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maleshkumarvelmurugan1982&repo=TIC-TAC-TOE&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Maleshkumarvelmurugan1982/DIGIRATION">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maleshkumarvelmurugan1982&repo=DIGIRATION&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Maleshkumarvelmurugan1982/HandCricketIPLVersion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maleshkumarvelmurugan1982&repo=HandCricketIPLVersion&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Maleshkumarvelmurugan1982/EntreVestApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maleshkumarvelmurugan1982&repo=EntreVestApp&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Maleshkumarvelmurugan1982/Rock_paper_scissor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Maleshkumarvelmurugan1982&repo=Rock_paper_scissor&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💼 **Let's Connect!**
