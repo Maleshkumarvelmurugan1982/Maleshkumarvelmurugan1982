@@ -276,19 +276,36 @@ Upcoming project integrating PICSimLab and Blynk for real-world IoT applications
 </td>
 <td width="50%">
 
-### 🎲 **Classic Games Collection**
-[![Games](https://img.shields.io/badge/Java-Collection-yellow?style=for-the-badge)](https://github.com/Maleshkumarvelmurugan1982/Rock_paper_scissor)
+### 🎯 **Tic-Tac-Toe**
+[![TicTacToe](https://img.shields.io/badge/Java-Game-yellow?style=for-the-badge)](https://github.com/Maleshkumarvelmurugan1982/TIC-TAC-TOE)
 
-Collection of classic games including Rock Paper Scissors and Tic-Tac-Toe.
+Classic Tic-Tac-Toe game demonstrating OOP principles and game logic.
 
 **Tech Stack:**
 - Java
-- OOP Principles
+- OOP Concepts
 - Game Algorithms
 
-**Impact:** Learning through fun coding 🎯
+**Impact:** Logic & problem-solving skills 🎯
 
-[![Explore](https://img.shields.io/badge/Explore-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maleshkumarvelmurugan1982/Rock_paper_scissor)
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maleshkumarvelmurugan1982/TIC-TAC-TOE)
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 🎲 **Rock Paper Scissors**
+[![RPS](https://img.shields.io/badge/Java-Game-orange?style=for-the-badge)](https://github.com/Maleshkumarvelmurugan1982/Rock_paper_scissor)
+
+Classic Rock Paper Scissors game showcasing OOP concepts and random logic.
+
+**Tech Stack:** Java • OOP Principles • Random Algorithms
+
+**Impact:** Learning through fun coding 🎮
+
+[![Explore](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maleshkumarvelmurugan1982/Rock_paper_scissor)
 
 </td>
 </tr>
