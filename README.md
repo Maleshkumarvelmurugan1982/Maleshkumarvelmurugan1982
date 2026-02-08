@@ -20,6 +20,12 @@ Welcome to my GitHub profile! I'm a passionate and dedicated web developer with 
 
 ### 🏢 Internship Experience
 
+- **IITM Research Park - Coptercode**  
+  *Full Stack Developer Intern (Chennai)*  
+  - Working on cutting-edge full stack development projects at one of India's premier research and innovation hubs.
+  - Developing scalable web applications and contributing to real-world industry solutions.
+  - Gaining hands-on experience with modern development frameworks and best practices.
+
 - **Emertxe Information Technologies**  
   *Embedded Systems & IoT Intern (May 2025 - Present, Remote)*  
   - Learning real-world tech skills in IoT, embedded systems, and project development.
@@ -43,6 +49,8 @@ Welcome to my GitHub profile! I'm a passionate and dedicated web developer with 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40" style="background:white;"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/></a>
 </p>
@@ -50,6 +58,11 @@ Welcome to my GitHub profile! I'm a passionate and dedicated web developer with 
 ---
 
 ### 🏆 Featured Projects
+
+#### [AgriHub](#)
+A platform designed to reduce transportation costs between farmers and sellers by connecting them directly.  
+**Tech:** MongoDB, Express.js, React, Node.js (MERN Stack)  
+**Impact:** Streamlining agricultural supply chains and empowering farmers
 
 #### [Digi-Ration](#)
 Modernized ration shop solution for online access to ration services.  
@@ -71,11 +84,7 @@ Classic game showcasing OOP concepts.
 Simple logic game for skill-building.  
 **Tech:** Java
 
-#### [SurvAlert (In Progress)](#)
-Disaster management web app with real-time alerts and resources.  
-**Tech:** React, PHP
-
-#### IoT-Based Solution (Upcoming)
+#### IoT-Based Solution 
 Future project integrating PICSimLab & Blynk for real-world IoT.  
 **Tech:** IoT, Blynk, PICSimLab
 
@@ -94,6 +103,7 @@ Future project integrating PICSimLab & Blynk for real-world IoT.
 - 🧠 Building AI-powered & IoT applications that solve real-world problems
 - ☁️ Exploring cloud architecture and microservices
 - 🤖 Developing expertise in advanced AI/ML
+- 🌾 Creating impactful solutions for agricultural technology
 
 ---
 
