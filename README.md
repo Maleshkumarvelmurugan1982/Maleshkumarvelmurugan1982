@@ -319,29 +319,25 @@ Classic Rock Paper Scissors game showcasing OOP concepts and random logic.
 
 <div align="center">
   
-<!-- GitHub Stats Cards -->
 <a href="https://github.com/Maleshkumarvelmurugan1982">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maleshkumarvelmurugan1982&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maleshkumarvelmurugan1982&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Streak Stats -->
 <a href="https://github.com/Maleshkumarvelmurugan1982">
   <img src="https://streak-stats.demolab.com/?user=Maleshkumarvelmurugan1982&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Activity Graph -->
 <a href="https://github.com/Maleshkumarvelmurugan1982">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Maleshkumarvelmurugan1982&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Trophies -->
 <a href="https://github.com/Maleshkumarvelmurugan1982">
   <img src="https://github-profile-trophy.vercel.app/?username=Maleshkumarvelmurugan1982&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" alt="Trophies" />
 </a>
