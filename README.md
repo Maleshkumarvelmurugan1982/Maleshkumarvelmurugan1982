@@ -321,24 +321,30 @@ Classic Rock Paper Scissors game showcasing OOP concepts and random logic.
   
 <!-- GitHub Stats Cards -->
 <a href="https://github.com/Maleshkumarvelmurugan1982">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maleshkumarvelmurugan1982&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maleshkumarvelmurugan1982&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maleshkumarvelmurugan1982&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maleshkumarvelmurugan1982&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </a>
 
+<br/>
+
 <!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maleshkumarvelmurugan1982&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<a href="https://github.com/Maleshkumarvelmurugan1982">
+  <img src="https://streak-stats.demolab.com/?user=Maleshkumarvelmurugan1982&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
+
+<br/>
 
 <!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maleshkumarvelmurugan1982&custom_title=Contribution%20Graph&bg_color=141321&color=FF6AD5&line=FF6AD5&point=FFFFFF&area_color=FF6AD5&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+<a href="https://github.com/Maleshkumarvelmurugan1982">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Maleshkumarvelmurugan1982&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</a>
+
+<br/>
 
 <!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maleshkumarvelmurugan1982&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</p>
+<a href="https://github.com/Maleshkumarvelmurugan1982">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maleshkumarvelmurugan1982&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" alt="Trophies" />
+</a>
 
 </div>
 
