@@ -333,12 +333,6 @@ Classic Rock Paper Scissors game showcasing OOP concepts and random logic.
 <br/><br/>
 
 <a href="https://github.com/Maleshkumarvelmurugan1982">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Maleshkumarvelmurugan1982&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Maleshkumarvelmurugan1982">
   <img src="https://github-profile-trophy.vercel.app/?username=Maleshkumarvelmurugan1982&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" alt="Trophies" />
 </a>
 
