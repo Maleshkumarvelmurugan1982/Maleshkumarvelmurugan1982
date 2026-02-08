@@ -84,7 +84,7 @@ Classic game showcasing OOP concepts.
 Simple logic game for skill-building.  
 **Tech:** Java
 
-#### IoT-Based Solution 
+#### IoT-Based Solution (Upcoming)
 Future project integrating PICSimLab & Blynk for real-world IoT.  
 **Tech:** IoT, Blynk, PICSimLab
 
@@ -92,9 +92,17 @@ Future project integrating PICSimLab & Blynk for real-world IoT.
 
 ### 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maleshkumarvelmurugan1982&layout=compact&hide=css,html&langs_count=8)
-![Maleshkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maleshkumarvelmurugan1982&show_icons=true&theme=react)
-![Maleshkumar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maleshkumarvelmurugan1982&theme=react)
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maleshkumarvelmurugan1982&layout=compact&theme=react&hide_border=true&langs_count=8)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maleshkumarvelmurugan1982&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maleshkumarvelmurugan1982&theme=react&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Maleshkumarvelmurugan1982&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
