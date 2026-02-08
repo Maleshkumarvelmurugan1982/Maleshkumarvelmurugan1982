@@ -39,7 +39,7 @@
 ```typescript
 const Maleshkumar = {
     pronouns: "He" | "Him",
-    location: "Coimbatore, Tamil Nadu, India",
+    location: "Thiruthangal, Tamil Nadu, India",
     code: ["JavaScript", "Python", "Java", "PHP", "C"],
     askMeAbout: ["Web Dev", "AI/ML", "IoT", "Tech", "Innovation"],
     technologies: {
