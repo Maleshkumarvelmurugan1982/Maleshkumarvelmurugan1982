@@ -255,26 +255,25 @@ Interactive hand cricket game with an exciting IPL twist for cricket enthusiasts
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
 ### 🤖 **IoT Smart Solution**
-[![IoT](https://img.shields.io/badge/IoT-Blynk-green?style=for-the-badge)](#)
+[![IoT](https://img.shields.io/badge/IoT-Blynk-green?style=for-the-badge)](https://github.com/Maleshkumarvelmurugan1982/IoT-Smart-Solution)
 
-Upcoming project integrating PICSimLab and Blynk for real-world IoT applications.
+A smart automation system integrating PICSimLab simulation with the Blynk cloud platform to enable real-time monitoring and remote control of embedded devices.
 
 **Tech Stack:**
 - PICSimLab
-- Blynk
+- ESP32 / PIC Microcontroller
 - Cloud Integration
 
-**Impact:** Smart automation solutions 🏠
+**Impact:** Delivering intelligent remote device management & smart automation solutions 🌐🏠
 
-[![Coming Soon](https://img.shields.io/badge/Coming_Soon-FF6B6B?style=for-the-badge&logo=clock&logoColor=white)](#)
+[![View Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maleshkumarvelmurugan1982/IoT-Smart-Solution)
 
 </td>
-<td width="50%">
+
 
 ### 🎯 **Tic-Tac-Toe**
 [![TicTacToe](https://img.shields.io/badge/Java-Game-yellow?style=for-the-badge)](https://github.com/Maleshkumarvelmurugan1982/TIC-TAC-TOE)
